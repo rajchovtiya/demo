@@ -1,2 +1,2 @@
 # demo
-this is my frist git Reepository.
+this is my first git Reepository.
